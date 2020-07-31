@@ -8,8 +8,8 @@ class Fibonacci
         int c = 0;
         System.out.println(" Fibonacci series ");
         System.out.println("The values are : ");
-         System.out.println(a);
-         System.out.println(b);
+        System.out.println(a);
+        System.out.println(b);
         for(int i = 0; i < limit; i++)
         {
             c = a + b;
