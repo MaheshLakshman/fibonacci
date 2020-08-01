@@ -14,7 +14,7 @@ class Fibonacci
         int a = 0;
         int b = 1;
         int c = 0;
-        System.out.println(" Fibonacci series ");
+        System.out.println("Fibonacci series ");
         System.out.println("The values are : ");
         System.out.println(a);
         System.out.println(b);
@@ -39,6 +39,10 @@ java ClassName
 
 ### find Fibonacci
 ```java
+
+    int a = 0;
+    int b = 1;
+    int c = 0;
 for(int i = 0; i < limit; i++)
         {
             c = a + b;
